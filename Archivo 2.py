@@ -1,0 +1,2 @@
+class house:
+    pass
